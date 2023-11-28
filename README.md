@@ -1,0 +1,1 @@
+This is the repository for the project: A Belief Propagation Algorithm for Multipath-Based UAV Waypoint Opportunistic Navigation in Urban Canyon.
